@@ -1,1 +1,2 @@
-# Dice-Simulator-w-JavaScript
+# Dice-SImulator---JavaScript
+ 
